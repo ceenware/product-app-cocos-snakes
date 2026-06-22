@@ -1,6 +1,8 @@
 Javascript Snakes
 =================
 
+站点地址：https://ceenware.github.io/product-app-cocos-snakes/
+
 An HTML5 Snakes Game
 
  * [play the game](https://jakesgordon.com/games/snakes/)
@@ -79,5 +81,4 @@ for and licensed from [iStockPhoto](http://istockphoto.com), [Lucky Lion Studios
 and should not be reproduced.
 
 Thanks for your honesty!
-
 
